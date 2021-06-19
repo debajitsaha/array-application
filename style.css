@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(90, 241, 209);
+    font-size: 1.75em;
+}
+.con{
+    text-align: center;
+    margin: 200px;
+    justify-content: center;
+    padding: 80px;
+    background-color: blueviolet;
+    color: white;
+}
+input,button{
+    height: 30px;
+}
+#result{
+    width: 250px;
+}
